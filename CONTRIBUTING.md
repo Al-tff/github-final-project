@@ -6,7 +6,7 @@ Thank you for your interest in contributing to the Simple Interest Calculator pr
 
 ### Reporting Bugs
 
-If you find a bug, please open an issue [here](https://github.com/your-username/simple-interest-calculator/issues) and include:
+If you find a bug, please open an issue [here](https://github.com/Al-tff/simple-interest-calculator/issues) and include:
 
 - A clear and descriptive title.
 - A detailed description of the bug.
@@ -15,7 +15,7 @@ If you find a bug, please open an issue [here](https://github.com/your-username/
 
 ### Suggesting Enhancements
 
-If you have an idea for a new feature or an improvement, please open an issue [here](https://github.com/your-username/simple-interest-calculator/issues) and include:
+If you have an idea for a new feature or an improvement, please open an issue [here](https://github.com/Al-tff/simple-interest-calculator/issues) and include:
 
 - A clear and descriptive title.
 - A detailed description of the enhancement.
